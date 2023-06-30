@@ -1,0 +1,21 @@
+﻿  Temp.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1127,5): error MSB6006: "link.exe" exited with code 1120.
+Temp.obj : error LNK2001: unresolved external symbol glfwSwapBuffers
+Temp.obj : error LNK2001: unresolved external symbol glfwGetWindowUserPointer
+Temp.obj : error LNK2001: unresolved external symbol glfwGetVideoMode
+Temp.obj : error LNK2001: unresolved external symbol glfwGetFramebufferSize
+Temp.obj : error LNK2001: unresolved external symbol glfwTerminate
+Temp.obj : error LNK2001: unresolved external symbol glfwGetWindowSize
+Temp.obj : error LNK2001: unresolved external symbol glfwSetMouseButtonCallback
+Temp.obj : error LNK2001: unresolved external symbol glfwPollEvents
+Temp.obj : error LNK2001: unresolved external symbol glfwInit
+Temp.obj : error LNK2001: unresolved external symbol glfwSetKeyCallback
+Temp.obj : error LNK2001: unresolved external symbol glfwSetScrollCallback
+Temp.obj : error LNK2001: unresolved external symbol glfwCreateWindow
+Temp.obj : error LNK2001: unresolved external symbol glfwMakeContextCurrent
+Temp.obj : error LNK2001: unresolved external symbol glfwSetWindowUserPointer
+Temp.obj : error LNK2001: unresolved external symbol glfwDestroyWindow
+Temp.obj : error LNK2001: unresolved external symbol glfwGetPrimaryMonitor
+Temp.obj : error LNK2001: unresolved external symbol glfwSetCursorPosCallback
+Temp.obj : error LNK2001: unresolved external symbol glfwWindowShouldClose
+C:\Users\Michael\Desktop\D435\librealsense\build\x64\Release\Temp.exe : fatal error LNK1120: 18 unresolved externals
